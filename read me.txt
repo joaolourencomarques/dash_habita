@@ -1,0 +1,16 @@
+dashboard/
+├── app.py
+├── pages/
+│   ├── 1_HABITA_page1_main.py
+│   ├── 2_HABITA_page2_map.py
+│   ├── 3_HABITA_page3_corr.py
+│   ├── 4_HABITA_page4_idesig.py
+├── data/
+│   ├── georef-portugal-concelho.geojson
+│   ├── indicadores_2011.csv
+│   ├── indicadores_2021.csv
+│   ├── indicadores_2011_2021.csv
+│   ├── cc98.shp
+├── images/
+│   ├── Picture1.jpg
+  
